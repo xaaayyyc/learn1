@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6 {
     background: url("assets/img/intro.jpg") center no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
-    background-size: cover;
+    /*background-size: cover;*/
 }
 .intro__title {
     font-size: 150px;
@@ -148,3 +148,5 @@ h1,h2,h3,h4,h5,h6 {
 
 
 }
+
+
